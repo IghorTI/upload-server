@@ -140,3 +140,19 @@ pnpm i vitest -D
 pnpm i vite-tsconfig-paths -D
 
 pnpm i dotenv-cli -D
+
+# ORM
+
+pnpm i drizzle-orm
+
+pnpm i drizzle-kit -D
+
+pnpm i drizzle-kit studio
+
+# Drive do postgress
+
+pnpm i postgres
+
+# ID 
+
+pnpm i uuidv7
