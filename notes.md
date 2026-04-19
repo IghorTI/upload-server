@@ -156,3 +156,7 @@ pnpm i postgres
 # ID 
 
 pnpm i uuidv7
+
+# CLOUADFLARE R2
+
+pnpm i @aws-sdk/lib-storage @aws-sdk/client-s3
